@@ -1,0 +1,4 @@
+- clienttan servera uzun mesaj gidiyo mu
+- otomatik client yolunu oluþtur
+- openssl
+- server çökünce mbox yap

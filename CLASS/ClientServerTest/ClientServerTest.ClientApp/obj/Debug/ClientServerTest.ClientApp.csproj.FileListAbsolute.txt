@@ -1,0 +1,57 @@
+C:\Users\test.ysd\source\repos\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.ClientForm.resources
+C:\Users\test.ysd\source\repos\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.Properties.Resources.resources
+C:\Users\test.ysd\source\repos\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.GenerateResource.cache
+C:\Users\test.ysd\source\repos\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\test.ysd\source\repos\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.exe.config
+C:\Users\test.ysd\source\repos\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.exe
+C:\Users\test.ysd\source\repos\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.pdb
+C:\Users\test.ysd\source\repos\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.exe
+C:\Users\test.ysd\source\repos\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.pdb
+C:\Users\test.ysd\source\repos\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\huseyin.yener\Downloads\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.exe.config
+C:\Users\huseyin.yener\Downloads\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.exe
+C:\Users\huseyin.yener\Downloads\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.pdb
+C:\Users\huseyin.yener\Downloads\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.ClientForm.resources
+C:\Users\huseyin.yener\Downloads\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.Properties.Resources.resources
+C:\Users\huseyin.yener\Downloads\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.GenerateResource.Cache
+C:\Users\huseyin.yener\Downloads\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.exe
+C:\Users\huseyin.yener\Downloads\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.pdb
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.ClientForm.resources
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.Properties.Resources.resources
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.GenerateResource.cache
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.exe
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.pdb
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.exe.config
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.exe
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.pdb
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.Library.dll
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.Library.pdb
+C:\Users\test.ysd\Desktop\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.CopyComplete
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.exe.config
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.exe
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.pdb
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.Library.dll
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.Library.pdb
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.ClientForm.resources
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.Properties.Resources.resources
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.CopyComplete
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.exe
+C:\Users\Hakan\Desktop\ClientServerTest\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.pdb
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.exe.config
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.exe
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.ClientApp.pdb
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.Library.dll
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\bin\Debug\ClientServerTest.Library.pdb
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csprojAssemblyReference.cache
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.ClientForm.resources
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.Properties.Resources.resources
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.GenerateResource.cache
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.csproj.CopyComplete
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.exe
+C:\Users\Hakan\Downloads\Client- Server\CLASS\ClientServerTest\ClientServerTest.ClientApp\obj\Debug\ClientServerTest.ClientApp.pdb
